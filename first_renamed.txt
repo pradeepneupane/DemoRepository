@@ -5,4 +5,8 @@ Changed by Pradeep
 This is changed now
 ncjhni
 This is from master
+<<<<<<< HEAD
 Harekrishna
+=======
+This is added into bugfix branch
+>>>>>>> bugfix
